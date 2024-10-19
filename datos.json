@@ -1,0 +1,52 @@
+{
+    "liga": "Liga Futbol",
+    "temporada": 2024,
+    "partidos": [
+        {
+            "fecha": "01-10-2024",
+            "equipo_local": "id_delEquipo",
+            "equipo_visitante": "id_delEquipo",
+            "hora": "22:00hs",
+            "resultado": {
+                "goles_local": 2,
+                "goles_visitante": 0
+            }
+        },
+        {
+            "fecha": "01-10-2024",
+            "equipo_local": "Boca",
+            "equipo_visitante": "River",
+            "resultado": {
+                "goles_local": 0,
+                "goles_visitante": 1
+            }
+        },
+        {
+            "fecha": "20-11-2024",
+            "equipo_local": "Velez",
+            "equipo_visitante": "Racing",
+            "resultado": {
+                "goles_local": 1,
+                "goles_visitante": 0
+            }
+        },
+        {
+            "fecha": "20-11-2024",
+            "equipo_local": "River",
+            "equipo_visitante": "Talleres",
+            "resultado": {
+                "goles_local": 0,
+                "goles_visitante": 1
+            }
+        },
+        {
+            "fecha": "20-11-2024",
+            "equipo_local": "San lorenzo",
+            "equipo_visitante": "Riestra",
+            "resultado": {
+                "goles_local": 1,
+                "goles_visitante": 1
+            }
+        }
+    ]
+}
